@@ -1,0 +1,25 @@
+"dept_name","dept_no","last_name","first_name","emp_no"
+"Marketing","d001","Markovitch","Margareta",110022
+"Marketing","d001","Minakawa","Vishwani",110039
+"Finance","d002","Alpin","Ebru",110085
+"Finance","d002","Legleitner","Isamu",110114
+"Human Resources","d003","Ossenbruggen","Shirish",110183
+"Human Resources","d003","Sigstam","Karsten",110228
+"Production","d004","Wegerle","Krassimir",110303
+"Production","d004","Cools","Rosine",110344
+"Production","d004","Kieras","Shem",110386
+"Production","d004","Ghazalie","Oscar",110420
+"Development","d005","Hagimont","DeForest",110511
+"Development","d005","DasSarma","Leon",110567
+"Quality Management","d006","Onuegbe","Peternela",110725
+"Quality Management","d006","Hofmeyr","Rutger",110765
+"Quality Management","d006","Quadeer","Sanjoy",110800
+"Quality Management","d006","Pesch","Dung",110854
+"Sales","d007","Kaelbling","Przemyslawa",111035
+"Sales","d007","Zhang","Hauke",111133
+"Research","d008","Staelin","Arie",111400
+"Research","d008","Kambil","Hilary",111534
+"Customer Service","d009","Butterworth","Tonny",111692
+"Customer Service","d009","Giarratana","Marjo",111784
+"Customer Service","d009","Spinelli","Xiaobin",111877
+"Customer Service","d009","Weedman","Yuchang",111939
